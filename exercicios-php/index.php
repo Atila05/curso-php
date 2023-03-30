@@ -20,10 +20,18 @@
         <script>
             document.write('Olá mundo JS hehe')
         </script>
-
+        
+        <br>
+        <hr>
+        
         <?php
             echo "Olá mundo PHP!" 
         ?>
+
+        <br><hr>
+
+        <a href="index.html">Avançar</a>
+
     </body>
 
 
